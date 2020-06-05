@@ -58,4 +58,4 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor at the Institute for Strategy, Technology, and Innovation (ISTO) of the Munich School of Management (LMU Munich). My research explores how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms.
+I am an assistant professor at the Institute for Strategy, Technology, and Innovation (ISTO) of the Munich School of Management (LMU Munich). My research explores how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. In my free time, I enjoy hiking and cycling. I am a pizza lover
