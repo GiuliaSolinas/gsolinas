@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/GiuliaSolinas1
 slides: example
-summary: Coordination in organizations is longstanding issue. Look into my research to find more info.
+summary: Coordination in organizations is a longstanding issue. Look into my research to find more info.
 tags:
 - Personal project
 title: Coordination in organizations
@@ -20,12 +20,12 @@ url_slides: ""
 url_video: ""
 ---
 
-Here you should add your comments on coordination in organizations.
+Coordination in organizations is a longstanding issue. Firms can use different tools to coordinate internally and with partners. Yet, the **‘mix-and-match’** of those instruments might prove to be demanding. I am studying this issue in the context of innovation management. 
 
-Here you can add a second paragraph.
+In the setting of IP strategic management, I examine the combination of **tools to coordinate the tasks’ structure with those to incentivize effort** in the patents’ value chain. With Dennis Verhoeven (KU Leuven), we find that for a sample of 20 large organizations, coordination arises from three clusters of tools’ configurations. Each configuration highlights a distinct ‘mix-and-match’ in such a way as to enhance the qualities of paired tools and improve both the granting rate and speed for the patents portfolio. If you are interested in knowing more, read our working paper.
 
-Here you ca add a third paragraph.
+Another facet of coordination is the strategic management of **partnerships**. This issue is particularly relevant for innovation projects, where competences and capabilities may be not available in-house. With the outsourcing of tasks and processes, part of the **responsibility** for the products’ or services’ features shifts in the partners’ hands. That poses a natural challenge for the outsourcing organization, which loses full directionality and can maintain only partial supervision. How to take back control and insure a smooth coordination with the partners? With Dominique Demougin (TU Kaiserslrautern), we study how to solve this issue via the **negotiation of indemnity clauses in outsourcing contracts** with a formal model and an empirical analysis for the pharmaceutical industry.
 
-Here add a fourth paragraph. 
+If you are also studying coordination in organizations and you have research ideas that you would feel sharing with me, I would be very happy to brainstorm with you. 
 
 

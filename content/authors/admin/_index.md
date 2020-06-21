@@ -33,7 +33,7 @@ interests:
 
 organizations:
 - name: LMU Munich, Munich School of Management
-  url: https://www.en.isto.bwl.uni-muenchen.de/team/ass_prof/giulia_solinas/index.html"
+  url: "https://www.en.isto.bwl.uni-muenchen.de/team/ass_prof/giulia_solinas/index.html"
 role: Assistant Professor 
 social:
 - icon: envelope
@@ -58,4 +58,4 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor at the Institute for Strategy, Technology, and Innovation (ISTO) of the Munich School of Management (LMU Munich). My research explores how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. In my free time, I enjoy hiking and cycling. I am a pizza lover
+I am an assistant professor at the [Institute for Strategy, Technology, and Innovation](https://www.en.isto.bwl.uni-muenchen.de/index.html) of the [Munich School of Management (LMU Munich)](https://www.bwl.uni-muenchen.de/index.html). My research explores how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. In my free time, I enjoy hiking and cycling. I am a pizza lover.

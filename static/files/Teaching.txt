@@ -1,0 +1,42 @@
+Teaching 
+
+Page 1
+
+Teaching is for me a wonderful opportunity to make an impact on society by training the new generations and leveraging their critical thinking and analytical skills. When in a classroom, I blend frontal lessons with interactive sessions based on class discussions, which should be stimulating, and solution driven. 
+
+I had the opportunity of translating my research knowledge into teaching contents. My teaching portfolio comprehends courses at the bachelor, master and executive level in the fields of corporate strategic management, organizational design, platforms, and innovation. 
+
+You will find the up-to-date overview of the courses I am currently involved at my institutional webpage.
+
+(https://www.en.isto.bwl.uni-muenchen.de/team/ass_prof/giulia_solinas/index.html)
+
+Page 1.1 Writing a thesis with me (Overview)
+
+What
+You are in the right place if you are interested in writing your thesis on topics related to digital platforms, the strategic implications of digital transformations, organizational design, and the strategic management of innovation. On these topics, I supervise both qualitative and quantitative studies, and literature reviews.
+
+Look at the page topics for initial ideas that could match with my research interests. 
+
+Code of conducts
+- Please, contact me one month in advance respect to your expected registration date. We will use this time window to brainstorm a suitable topic and look for opportunities to collect data. 
+- I am expecting to see you and receive your updates regularly. It is your responsibility to get in touch with me and schedule the appointments.
+- I believe in collaborative and open research and I will ask you to share your codes and analysis results via Dropbox or a collaborative folder. 
+- If you decide to work with quantitative data, I recommend using either R (open-source) or STATA (license-based). If you opt for STATA, you should have access for free through the library computers. Otherwise, you can buy a discounted student license. 
+- Coding can be messy while you progress in your analysis. I recommend writing a final script to summarize the blocks of your code at the end of your thesis. Please, include a readme.file if the code needs further specification. 
+
+Formal details
+- At ISTO, we register the incoming theses on the first Monday of each month.
+- Visit the ISTO institutional webpage for the formal requirements (length, page style, etc.).
+
+Link to ISTO thesis webpage (https://www.isto.bwl.uni-muenchen.de/studium_lehre/abschluss/index.html)
+
+Page 1.1.1 Topics
+
+Topic 1
+Platform
+
+Topic 2
+Organizational design and digital transformation
+
+Topic 3
+FDA
