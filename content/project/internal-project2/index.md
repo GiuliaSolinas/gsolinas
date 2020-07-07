@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/GiuliaSolinas1
 slides: example
-summary: Coordination in organizations is a longstanding issue. Look into my research to find more info.
+summary: Coordination in organizations is a longstanding issue. Which tools can firms adopt to foster coordination? 
 tags:
 - Personal project
 title: Coordination in organizations

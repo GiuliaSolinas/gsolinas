@@ -10,9 +10,10 @@ links:
   name: Follow
   url: https://twitter.com/GiuliaSolinas1
 slides: example
-summary: I am studying digital platforms with a focus on the microfinance industry. Look into my research to find more info.
+summary: I am studying digital platforms with a focus on the microfinance industry. I am interested in the societal dimentions that influence interactions in the platform market.
 tags:
 - Personal project
+- Platforms
 title: Microfinance platforms
 url_code: ""
 url_pdf: ""
