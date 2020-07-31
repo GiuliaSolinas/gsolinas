@@ -20,6 +20,8 @@ Stay tuned and connect on Twitter, where we will post live tweets!
 
 For more information about the Academy of Management Conference, follow this [link](http://aom.org/annualmeeting/theme). 
 
+More information and videos are available [here](https://sap.aom.org/sap/webinars/digistrat/).
+
 <!-- If you want to remove this post, you can simply # the upper part contained in the --- -->
 
 <!-- ```{r setup, include=FALSE} -->

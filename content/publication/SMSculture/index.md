@@ -14,8 +14,8 @@ image:
 #  url: http://example.org
 projects:
 - internal-project
-publication: In *Strategic Management Society Annual Conference*
-publication_short: In *SMS*
+publication: In *Strategic Management Society Annual Conference 2020 London*
+publication_short: In *SMS Annual Conference*
 publication_types:
 - "1"
 publishDate: "2020-07-07T00:00:00Z"
@@ -36,9 +36,9 @@ title: Does culture matter for platforms and their complementors?
 #url_video: '#'
 ---
 
-{{% alert note %}}
-Insert content **here**  and add information about the `conference`.
-{{% /alert %}}
+<!-- {{% alert note %}}
+ Insert content **here**  and add information about the `conference`.
+ {{% /alert %}}
 
 
 

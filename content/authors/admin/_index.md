@@ -21,7 +21,7 @@ education:
 #  #   institution: Massachusetts Institute of Technology
 #  #   year: 2008
 
-email: "g.solinas@lmu.de"
+email : 'g.solinas@lmu.de' 
 interests:
 - Organizational design
 - Digital transformation and innovation
@@ -36,9 +36,9 @@ organizations:
   url: "https://www.en.isto.bwl.uni-muenchen.de/team/ass_prof/giulia_solinas/index.html"
 role: Assistant Professor 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/@GiuliaSolinas1
