@@ -2,8 +2,9 @@
 header:
   caption: ""
   image: ""
-layout: docs
+#layout: docs
 title: Teaching
+view: 2
 ---
 
 Teaching is for me a wonderful opportunity to make an **impact** on society by training the new generations and leveraging their critical thinking and analytical skills. When in a classroom, I blend frontal lessons with interactive sessions based on class discussions, which should be stimulating and solution driven. 
