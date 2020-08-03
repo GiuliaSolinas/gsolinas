@@ -1,26 +1,28 @@
 ---
-title: "Digital Strategizing at the Academy of Management 2020"
+title: "General information about bachelor and master theses"
 author: "Giulia Solinas" 
 date: 2020-06-23T21:13:14-05:00
-categories: ["Digital Strategizing"]
-tags: ["conferences", "digitization", "research network"]
+
 ---
 
-This summer, during the **Academy of Management Conference**, [Christina Wawarta](https://scholar.google.com/citations?user=KIuvTCcAAAAJ&hl=en/), [Georg Reischauer ](https://sites.google.com/view/greischauer/) and I will organize an online symposium. We will discuss the role of **digitization in strategizing** with a panel of experts. 
+I am available to act as advisor for theses related to **digital platforms**, the **strategic implications of digital transformation**, **organizational design**, and the **strategic management of innovation**. On these topics, I supervise both qualitative and quantitative studies, and literature reviews.
 
-What is the matter? Digital technologies such as platforms, big data analytics, and algorithms are reshaping how firms strategize. A first effect is **altering the strategy-making process**, which has become less exclusive and secret, and more flexible. Second, digital technologies are also **redefining strategy-making practices**, allowing actors to participate from afar or utilizing the wisdom of the crowd. 
+Look at the `Topics` for initial ideas that could match with my research interests. 
 
-We want to discuss these two effects, their significance for business, and their influence on the strategic management research agenda.
+## Code of conducts
 
-Who will be "on the stage" with us? **Stefan Haefliger** (Cass Business School, UK) **Julia Hautz** (U. of Innsbruck, AUT), **Ann Majchrzak** (U. of Southern California, USA), **Stella Pachidi** (U. of Cambridge, UK), **Sotirios Paroutis** (Warwick Business School, UK), **Richard Whittington** (U. of Oxford, UK).
+* Please, contact me **one month in advance** respect to your expected registration date. We will use this time window to brainstorm a suitable topic and look for opportunities to collect data. 
+* I am expecting to see you and receive your updates regularly. It is your responsibility to get in touch with me and schedule the appointments.
+* I believe in collaborative and open research and I will ask you to **share your codes and analysis results via Dropbox or a collaborative folder**. 
+* If you decide to work with quantitative data, I recommend using either `R` (open-source) or `STATA` (license-based). If you opt for STATA, you should have free access through the library computers. Otherwise, you can buy a discounted student license. 
+* `Coding` can be messy while you progress in your analysis. I recommend writing a final script to summarize the blocks of your code at the end of your thesis. Please, include a readme.file if the code needs further specification. 
 
-Stay tuned and connect on Twitter, where we will post live tweets!
+## Formal details
 
-
-
-For more information about the Academy of Management Conference, follow this [link](http://aom.org/annualmeeting/theme). 
-
-More information and videos are available [here](https://sap.aom.org/sap/webinars/digistrat/).
+* At ISTO, we register the incoming theses on the **first Monday of each month**.
+* Once agreed on a topic, I will send you the registration form. 
+* Visit the [ISTO institutional webpage](https://www.isto.bwl.uni-muenchen.de/studium_lehre/abschluss/index.html/)
+ for the formal requirements (length, page style, etc.).
 
 <!-- If you want to remove this post, you can simply # the upper part contained in the --- -->
 
