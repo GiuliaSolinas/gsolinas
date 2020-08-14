@@ -1,0 +1,3 @@
+http://gsolinas.rbind.io/*       https://gsolinas.rbind.io/:splat 301!
+https://gsolinas.netlify.app/*   https://gsolinas.rbind.io/:splat 301!
+https://gsolinas.netlify.com/*   https://gsolinas.rbind.io/:splat 301!
