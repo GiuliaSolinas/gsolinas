@@ -40,7 +40,5 @@ url_pdf: https://journals.aom.org/doi/10.5465/amd.2020.0144
 # url_video: '#'
 ---
 
-#{{% alert note %}}
-#The full introduction article to the special issue is forthcoming by the end 2020. 
-#{{% /alert %}}
+
 
