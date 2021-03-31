@@ -10,11 +10,11 @@ links:
   name: Follow
   url: https://twitter.com/GiuliaSolinas1
 slides: example
-summary: I am studying digital platforms with a focus on the microfinance industry. I am interested in the societal dimentions that influence interactions in the platform market.
+summary: I am studying digital platforms addressing societal grand challenges with a focus on the microfinance industry. In this context, I am interested in the societal dimentions that influence interactions in the platform market.
 tags:
 - Personal project
 - Platforms
-title: Microfinance platforms
+title: Platforms for good
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -22,6 +22,8 @@ url_video: ""
 ---
 
 Platforms have become ubiquitous, and their economic relevance is prominent. They have transformed sectors, shaping the competitive advantage of long-standing players, their practices, and their dynamics. 
+
+Platforms have a crucial influence on market competitiveness, for example, among vendors or between platform providers. Instead, the **contribution of platforms to social change** is poorly examined despite an expanding array of public and private initiatives.
 
 The **microfinance industry** has also seen an evolution due to the rise of digital platforms. Lendings that used to be granted in local networks can now aspire for a global reach; information transparency has increased. 
 
