@@ -32,7 +32,7 @@ tags:
 - Alliance dynamics 
 - Forgiveness
 - Stability
-title: Competition, formal governance and trust in alliances: An experimental study
+title: Competition, formal governance and trust in alliances An experimental study
 # url_code: '#'
 url_dataset: 'https://doi.org/10.5281/zenodo.5067689'
 url_pdf: https://doi.org/10.1016/j.lrp.2022.102240
