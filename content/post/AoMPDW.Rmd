@@ -1,7 +1,7 @@
 ---
 title: "Digital Strategizing at the Academy of Management 2020"
 author: "Giulia Solinas" 
-date: 2020-06-23T21:13:14-05:00
+date: 2020-11-23T21:13:14-05:00
 categories: ["Digital Strategizing"]
 tags: ["conferences", "digitization", "research network"]
 ---

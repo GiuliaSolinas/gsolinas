@@ -26,6 +26,8 @@ In the setting of IP strategic management, I examine the combination of **tools 
 
 Another facet of coordination is the strategic management of **partnerships**. This issue is particularly relevant for innovation projects, where competences and capabilities may be not available in-house. With the outsourcing of tasks and processes, part of the **responsibility** for the products’ or services’ features shifts in the partners’ hands. That poses a natural challenge for the outsourcing organization, which loses full directionality and can maintain only partial supervision. How to take back control and insure a smooth coordination with the partners? With Dominique Demougin (TU Kaiserslrautern), we study how to solve this issue via the **negotiation of indemnity clauses in outsourcing contracts** with a formal model and an empirical analysis for the pharmaceutical industry.
 
+Coordination is also crucial to alliances' survival. **Trust building and maintenance** enable **strategic alliances** to survive when allies are peers and the partnerships unstable. My co-authors and I research this relationship with a lab experiment and document the significance of ''trust-building'' in initial stages and ''trust repair'' in later stages of strategic alliances with competitors. 
+
 If you are also studying coordination in organizations and you have research ideas that you would feel sharing with me, I would be very happy to brainstorm with you. 
 
 
