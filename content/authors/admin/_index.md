@@ -6,7 +6,7 @@ bio: My research interests include organizational design, digital transformation
 education:
   courses:
   - course: PhD in Management
-    institution: Cass Business School, City University of London (UK)
+    institution: Bayes Business School, City University of London (UK)
     year: 2017
   - course: PhD in Business Administration
     institution: University of Verona (IT)
@@ -58,4 +58,4 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor at the [Institute for Strategy, Technology, and Innovation](https://www.en.isto.bwl.uni-muenchen.de/index.html) of the [Munich School of Management (LMU Munich)](https://www.bwl.uni-muenchen.de/index.html). My research explores how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. In my free time, I enjoy hiking and cycling. I am a pizza lover.
+I am an assistant professor at the [Institute for Strategy, Technology, and Innovation](https://www.en.isto.bwl.uni-muenchen.de/index.html) of the [Munich School of Management (LMU Munich)](https://www.bwl.uni-muenchen.de/index.html) (in maternity leave since June 2022). My research explores how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. In my free time, I enjoy hiking and cycling. I am a pizza lover. 
