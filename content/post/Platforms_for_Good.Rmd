@@ -5,7 +5,7 @@ date: 2021-03-23T21:13:14-05:00
 categories: ["Platforms for good"]
 tags: ["Platforms", "digitization"]
 ---
-What are the dimensions of a platform design that enables both sustainability and value generation for society and the platform’s market? Christoph Feest and I discuss this issue in this [blog post](https://diagonalising.com/platforms-for-good/).
+What are the dimensions of a platform design that enables both sustainability and value generation for society and the platform’s market? Christoph Feest and I discuss this issue in this [blog post](https://diagonalising.com/posts/2021-03-23-platforms-for-good/).
 <!-- This summer, during the **Academy of Management Conference**, [Christina Wawarta](https://scholar.google.com/citations?user=KIuvTCcAAAAJ&hl=en/), [Georg Reischauer ](https://sites.google.com/view/greischauer/) and I will organize an online symposium. We will discuss the role of **digitization in strategizing** with a panel of experts.  -->
 
 <!-- What is the matter? Digital technologies such as platforms, big data analytics, and algorithms are reshaping how firms strategize. A first effect is **altering the strategy-making process**, which has become less exclusive and secret, and more flexible. Second, digital technologies are also **redefining strategy-making practices**, allowing actors to participate from afar or utilizing the wisdom of the crowd.  -->
