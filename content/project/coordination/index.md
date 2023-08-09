@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/GiuliaSolinas1
-slides: example
+<! -- slides: example -->
 summary: Coordination in organizations is a longstanding issue. Which tools can firms adopt to foster coordination? 
 tags:
 - Personal project

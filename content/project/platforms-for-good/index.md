@@ -1,5 +1,5 @@
 ---
-date: "2020-06-05T00:00:00Z"
+date: "2023-08-09T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by Martin Reisch on Unsplash
@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/GiuliaSolinas1
-slides: example
+<! -- slides: example -->
 summary: I am studying digital platforms addressing societal grand challenges with a focus on the microfinance industry. In this context, I am interested in the societal dimentions that influence interactions in the platform market.
 tags:
 - Personal project
@@ -29,6 +29,6 @@ The **microfinance industry** has also seen an evolution due to the rise of digi
 
 In front of these fundamental changes, **some relationships might change, while others remain unaltered**. For example, the comparison between microlending institutions becomes more complicated. Organizations can **benchmark themselves with the other peers active on the platform**. Viceversa, **culture** should remain a stable trait that shapes interactions in the micro-lending industry, when this one goes digital. But is it the case? 
 
-This research stream is under development. Stay tuned for more content to come. Would you feel sharing your insight on the topic, don't hesitate to get in contact.  
+On this topic, I have written few blog posts and organized several workshops. Yoou cna check my Engagement page if interested. Would you feel sharing your insight on the topic, don't hesitate to get in contact.  
 
 

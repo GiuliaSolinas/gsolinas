@@ -27,14 +27,14 @@ interests:
 - Digital transformation and innovation
 - Platforms
 - Pharmaceutical industry
-#- Artificial Intelligence
+- Data Analytics
 #- Computational Linguistics
 #- Information Retrieval
 
 organizations:
 - name: LMU Munich, Munich School of Management
   url: "https://www.en.isto.bwl.uni-muenchen.de/team/ass_prof/giulia_solinas/index.html"
-role: Assistant Professor 
+role: Data Scientist | Strategy & Innovation Expert | Researcher 
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -48,9 +48,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Giulia_Solinas3
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/GiuliaSolinas
 superuser: true
 title: Giulia Solinas
 user_groups:
@@ -58,4 +58,4 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor at the [Institute for Strategy, Technology, and Innovation](https://www.en.isto.bwl.uni-muenchen.de/index.html) of the [Munich School of Management (LMU Munich)](https://www.bwl.uni-muenchen.de/index.html) (in maternity leave since June 2022). My research explores how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. In my free time, I enjoy hiking and cycling. I am a pizza lover. 
+I am an assistant professor at the [Institute for Strategy, Technology, and Innovation](https://www.en.isto.bwl.uni-muenchen.de/index.html) of the [Munich School of Management (LMU Munich)](https://www.bwl.uni-muenchen.de/index.html) (in maternity leave since June 2022). My research explores how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. When not busy researching, I enjoy hiking and cycling with my family. I am a pizza and golden retriever lover. 

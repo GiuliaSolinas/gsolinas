@@ -1,14 +1,14 @@
 ---
-date: "2020-06-05T00:00:00Z"
-#external_link: https://www.researchgate.net/project/Research-Network-Digital-Strategizing
+date: "2023-08-09T00:00:00Z"
+#external_link: https://digital-strategizing.org
 image:
   caption: Photo by Alina Grubnyak on Unsplash
   focal_point: Smart
 links:
-- icon: researchgate
-  icon_pack: ai
+- icon: blog
+  icon_pack: fas
   name: Project Site
-  url: https://www.researchgate.net/project/Research-Network-Digital-Strategizing
+  url: https://digital-strategizing.org
   
 summary: The goal of this research network is thus to build a community of early scholars interested in the topic of digitalization of strategy-making, to develop a joint research agenda, and to stimulate high-quality research on this topic. 
 #For more information, see the `external_link`.
@@ -25,6 +25,6 @@ Taking stock of the current debate, we discuss and analyze how digital transform
 - **strategy practitioners**, who are the actors who deploy strategizing activities; 
 - **strategy praxis**, which refers to the actual activities or performance of strategy practitioners in enacting their practices.
 
-To see the current state of our research, follow us on ResearchGate. 
+We post regularly our updates on our research blog <https://digital-strategizing.org>. 
 
 
