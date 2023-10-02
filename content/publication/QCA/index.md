@@ -1,9 +1,9 @@
 ---
-abstract: The issue of value appropriation from innovation is a centerpiece of firms’ innovation strategies. Appropriability through successful patent protection occurs due to a hierarchical structure in the R&D decision-making, a certain level of cross-functionality between the organizational units involved, and the codification of information in the application process. However, the interaction between these coordination mechanisms remains open to debate. This study explores this interplay by adopting a configurational perspective and analyzing 20 cases using the fsQCA approach. Our findings explore the synergies derived from the intersection of coordination mechanisms for appropriability and identify which are core versus peripheral. The results suggest that centralizing both decision-making and cross-functionality are core to appropriability when combined in an organization. However, both mechanisms become ancillary when in a configuration with formalization through planning.
+abstract: This study explores how organizational design and agents' roles affect the ability to generate predictive knowledge necessary for achieving strategic goals in dynamic organizational environments. Through an analysis of 20 cases in the IP value chain of large organizations, we discovered that decision-makers can effectively use a combination of hierarchical and horizontal coordination mechanisms. Additionally, we identified four distinct roles played by agents in shaping predictive knowledge. This study presents a new framework that emphasizes the interplay between organizational design and agent contributions, advancing our understanding of predictive knowledge generation in complex settings. Our findings provide valuable insights for optimizing the strategic design of critical organizational functions, such as the IP value chain, which can impact innovation and competitiveness.
 authors:
 - admin
 - Dennis Verhoeven
-date: "2020-04-03T00:00:00Z"
+date: "2023-10-02T00:00:00Z"
 doi: "https://dx.doi.org/10.2139/ssrn.3551991"
 featured: true
 image:
@@ -19,13 +19,13 @@ publication: In *SSRN Pre-Prints*
 publication_short: In *SSRN*
 publication_types:
 - "3"
-publishDate: "2020-07-02T00:00:00Z"
+publishDate: "2023-10-02T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - coordination
-title: Coordination Mechanisms and Value Appropriation. Toward a Configurational Perspective
+title: How Do Design-Thinking and Agents' Roles Matter to Generate Predictive Knowledge in Organizations?
 # url_code: '#'
 # url_dataset: '#'
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
