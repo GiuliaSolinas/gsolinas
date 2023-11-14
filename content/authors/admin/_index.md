@@ -33,7 +33,7 @@ interests:
 
 organizations:
 - name: LMU Munich, Munich School of Management
-  url: "https://www.en.isto.bwl.uni-muenchen.de/team/ass_prof/giulia_solinas/index.html"
+  url: "https://www.som.lmu.de/isto/en/institute/contact-page/giulia-solinas-65d43bd2.html"
 role: Data Scientist | Strategy & Innovation Expert | Researcher 
 social:
 # - icon: envelope
@@ -58,4 +58,4 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor at the [Institute for Strategy, Technology, and Innovation](https://www.en.isto.bwl.uni-muenchen.de/index.html) of the [Munich School of Management (LMU Munich)](https://www.bwl.uni-muenchen.de/index.html) (in maternity leave since June 2022). My research explores how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. When not busy researching, I enjoy hiking and cycling with my family. I am a pizza and golden retriever lover. 
+I am an assistant professor at the [Institute for Strategy, Technology, and Innovation](https://www.som.lmu.de/isto/en/index.html) of the [Munich School of Management (LMU Munich)](https://www.som.lmu.de/de/index.html) (in maternity leave since June 2022). My research explores how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. When not busy researching, I enjoy hiking and cycling with my family. I am a pizza and golden retriever lover. 
