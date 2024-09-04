@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include organizational design, digital transformation of organizations, platforms.
+bio: I work on NLP and LLM models in production. My research contributions are related to organizational design and the digital transformation of organizations and platforms.
 
 education:
   courses:
@@ -21,19 +21,19 @@ education:
 #  #   institution: Massachusetts Institute of Technology
 #  #   year: 2008
 
-email : 'g.solinas@lmu.de' 
+email : 'gsolinas@croz.net' 
 interests:
-- Organizational design
+- Artificial Intelligence (generative and predictive AI)
 - Digital transformation and innovation
-- Platforms
+- Financial industry
 - Pharmaceutical industry
-- Data Analytics
+- Platforms
 #- Computational Linguistics
 #- Information Retrieval
 
 organizations:
-- name: LMU Munich, Munich School of Management
-  url: "https://www.som.lmu.de/isto/en/institute/contact-page/giulia-solinas-65d43bd2.html"
+- name: CROZ
+  url: "https://croz.net/de/"
 role: Data Scientist | Strategy & Innovation Expert | Researcher 
 social:
 # - icon: envelope
@@ -58,4 +58,4 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor at the [Institute for Strategy, Technology, and Innovation](https://www.som.lmu.de/isto/en/index.html) of the [Munich School of Management (LMU Munich)](https://www.som.lmu.de/de/index.html) (in maternity leave since June 2022). My research explores how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. When not busy researching, I enjoy hiking and cycling with my family. I am a pizza and golden retriever lover. 
+I am a data scientist and AI consultant working on NLP and LLM models. I was faculty at the Institute for Strategy, Technology, and Innovation of the [Munich School of Management (LMU Munich)](https://www.som.lmu.de/de/index.html) and the University of Liverpool Management School. My research used to look into how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. When not busy researching, I enjoy hiking and cycling with my family. I am a pizza and golden retriever lover. 
