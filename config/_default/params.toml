@@ -89,23 +89,23 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-# email = "g.solinas@lmu.de "
+# email = "gsolinas@croz.net "
 #phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Kaulbachstrasse 45", city = "Munich", region = "DE", postcode = "80539", country = "germanys", country_code = "DE"}
+address = {street = "Aschauer Str. 30", city = "Munich", region = "DE", postcode = "81549", country = "germanys", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "48.150786", longitude = "11.584093"}
+# coordinates = {latitude = "48.150786", longitude = "11.584093"}
 
 # Directions for visitors to locate you.
-directions = "Office 303"
+# directions = "Fourth Floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Send me an email at g.solinas@lmu.de"]
+office_hours = ["Send me an email at gsolinas@croz.net"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url ="https://calendly.com/gsolinas/30min"
