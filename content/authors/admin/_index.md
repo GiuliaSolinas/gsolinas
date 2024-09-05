@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I work on NLP and LLM models in production. My research contributions are related to organizational design and the digital transformation of organizations and platforms.
+bio: I work on NLP and LLM models in production. I am a former academic with research contributions related to organizational design and the digital transformation of organizations and platforms.
 
 education:
   courses:
@@ -39,6 +39,9 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'
+- icon: linkedin
+  icon_pack: fab
+  link: [https://twitter.com/@GiuliaSolinas1](https://www.linkedin.com/in/giulia-solinas-ph-d-2b819071/)
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/@GiuliaSolinas1
@@ -58,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-I am a data scientist and AI consultant working on NLP and LLM models. I was faculty at the Institute for Strategy, Technology, and Innovation of the [Munich School of Management (LMU Munich)](https://www.som.lmu.de/de/index.html) and the University of Liverpool Management School. My research used to look into how organizations coordinate their tasks to manage innovation and digitization. Empirically, I focus on the pharmaceutical industry and micro-finance platforms. When not busy researching, I enjoy hiking and cycling with my family. I am a pizza and golden retriever lover. 
+I am a data scientist and AI consultant who leverages AI and ML technologies to drive strategic digital transformation across various industries, including finance and insurance. I was formerly a faculty member at the Ludwig-Maximilians Universität München (LMU) and the University of Liverpool, with research contributions to digital micro-lending platforms, technology licensing, and organizational design. 
