@@ -41,7 +41,7 @@ social:
 #   link: '#contact'
 - icon: linkedin
   icon_pack: fab
-  link: [https://twitter.com/@GiuliaSolinas1](https://www.linkedin.com/in/giulia-solinas-ph-d-2b819071/)
+  link: https://www.linkedin.com/in/giulia-solinas-ph-d-2b819071/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/@GiuliaSolinas1
